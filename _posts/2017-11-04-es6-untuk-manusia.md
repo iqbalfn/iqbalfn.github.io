@@ -5,6 +5,9 @@ date: 2017-11-04 12:58:00
 categories: notes js formal
 ---
 
+<div class="__mango" data-placement="3"></div>
+<script src="https://sdk.indoadsnet.com/mango.js"></script>
+
 Artikel ini adalah translasi langsung dari artikel [Deepak Grover](//github.com/metagrover/ES6-for-humans).
 
 ## 1. let, const dan skop blok
